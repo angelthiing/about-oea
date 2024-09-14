@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="About OEA" />
+    <meta property="og:image" content="" />
+    <meta property="og:description" content="Learn more about Extreme and Organized Abuse." />
+    <meta property="og:url" content="https://aboutoea.org/" />
+    <meta property="og:type" content="website" />
+    <!-- CSS LINKED HERE -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="style.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+        crossorigin="anonymous"></script>
+    <title>About OEA</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col col-nav"> <!--LEFT SIDE-->
+                <h1 id="awareness-ribbon">&#x1F397;</h1>
+                <h1>About OEA</h1>
+                <div class="buttons">
+                    <a href="index"><button type="button" class="btn btn-default">Home</button></a>
+                    <a href="myths"><button type="button" class="btn btn-default">Misconceptions</button></a>
+                    <a href="ra"><button class="btn btn-default">RA</button></a>
+                    <a href="mc"><button class="btn btn-default">MC</button></a>
+                    <a href="oa"><button class="btn btn-default">OA</button></a>
+                    <a href="ettiquette"><button class="btn btn-default">Ettiquette</button></a>
+                    <a href="sources"><button class="btn btn-default">References</button></a>
+                </div>
+            </div>
+            <section id="ra" class="col-7 col-main">
+                <h2>Ritual abuse (RA) is systematic torture characterized by repetition.</h2>
+                <p>Victims are often forced to take part in ceremonies or customs where violence and assault are
+                    normalized. Due to the routinely multi-perpetrator nature of these rituals, nearly all RA can be
+                    categorized as a form of organized abuse.</p>
+
+                <h3>Spiritual RA</h3>
+                <p>RA often has a spiritual aspect to it, as abusers may utilize religious dogma to ensure that their
+                    victims comply. Survivors may be told, “God wants you to be abused” or “Our holy scriptures say I
+                    must abuse you.” They may be tortured (or forced to torture others) as part of spiritual customs,
+                    such as worship ceremonies, feast days, prayer circles, religious holidays, etc.</p>
+
+                <p>Although most of the research done on religious RA focuses on Satanism, any religion can be twisted
+                    and used for abusers’ purposes. Groups often take spiritual concepts from many religions and combine
+                    them to create a bastardized religion that suits their needs. It is not uncommon, for example, for a
+                    non-Satanic group to use Satanic imagery to capitalize off of their victims’ fear of hell or demons.
+                    There are even cases of secular RA where religious themes are used to capitalize on moral panic.</p>
+
+                <h3>Secular RA</h3>
+                <p>RA can also be secular, or non-religious. Examples include the ritualistic celebrations of neo-Nazi
+                    groups on WWII anniversaries, initiation rituals held by gangs and cartels, self-mutilation rituals
+                    done in the name of personality cults, and more. Secular RA often relies on radical political
+                    ideologies, as seen in paramilitary groups and clandestine cells. </p>
+
+                <p>Some secular groups falsely purport their rituals as forms of behavior modification. Examples include
+                    <em>rebirthing therapy</em> rituals for children with Oppositional Defiant Disorder; the
+                    nonconsensual use of psychoactive drugs, such as LSD, in scheduled experiments on psychiatric
+                    patients; or extreme, nonconsensual <em>aversion therapy</em> sessions. These “therapeutic” rituals
+                    are often targeted at disabled children or people under care of the state. These experiences can
+                    make the idea of receiving actual therapy terrifying to survivors, hindering their ability to reach
+                    out for help.</p>
+
+                <h3>Effect on Survivors</h3>
+                <p>Victims of RA are often painted as unreliable or susceptible to their therapists’ suggestions, and
+                    their stories go unheard. Some abusers intentionally use drugs, loud music, strange lighting, and
+                    even costumes to disorient victims and make their stories seem unbelievable. As a result, many
+                    survivors spend years questioning if their abuse truly occurred, leading to prolonged battles with
+                    intense self-doubt.</p>
+
+                <p>Survivors may come to associate certain dates and anniversaries with their trauma, causing a
+                    significant increase in symptom intensity around these dates. This intensification happens even when
+                    survivors are not consciously aware of the dates occurring. This is why many RA resources have <a
+                        href="https://survivorship.org/2023-dates/">calendars listing common dates</a> that affect
+                    survivors of specific types of RA.</p>
+
+                <p>RA often has long-term effects on a survivor’s spiritual beliefs, leading to existential dread or
+                    religious anxiety. Spirituality can be a sensitive topic for many RA survivors. It is always best to
+                    ask a survivor before discussing it.</p>
+            </section>
+        </div>
+    </div>
+</body>
+
+</html>
