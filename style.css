@@ -1,0 +1,55 @@
+       html,
+        body {
+            height: 100%;
+            background-color: #e3e3e3;
+            background-size: cover;
+        }
+
+        body {
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 1.8em;
+        }
+
+        .container {
+            width: 65%;
+            transform: translateY(2em);
+        }
+
+        h1 {
+            font-size: 2em;
+        }
+
+        #awareness-ribbon {
+            font-size: 3em;
+        }
+
+        .col-nav {
+            padding-right: 5%;
+        }
+
+        .col-main {
+            border-left: 2px solid lightgray;
+            padding-left: 5%;
+        }
+
+        h1 {
+            text-align: right;
+        }
+
+        h2 {
+            font-size: 1.25em;
+        }
+
+        .buttons {
+            text-align: right;
+        }
+
+        .btn-default {
+            font-size: 1.125em;
+            margin: 0.3em 0.1em;
+            padding-left: 1em;
+            padding-right: 1em;
+            border-color: grey;
+            background-color: transparent;
+            border-radius: 25px;
+        }
