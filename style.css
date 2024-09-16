@@ -59,6 +59,10 @@
               color: #FFF;
        }
 
+       .centered {
+              text-align: center !important;
+       }
+
        .hangingindent {
              padding-left: 22px ;
              text-indent: -22px ;
