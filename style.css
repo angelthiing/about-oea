@@ -69,7 +69,7 @@
        }
 
        button.centered {
-              text-align: center !important;
+              text-align: center;
        }
 
        .hangingindent {
