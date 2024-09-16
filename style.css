@@ -20,12 +20,16 @@
        } 
        
        .a-black:hover  {
-              color: #000;
-       } 
-
-       .a-black:visited, .a-black:active {
               color: #311d70;
               text-decoration: none;
+       } 
+
+       .a-black:visited {
+              color: #000;
+       }
+       
+       .a-black:active {
+              color: #000;
        }
 
         h1 {
