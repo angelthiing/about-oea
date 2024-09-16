@@ -54,6 +54,11 @@
             border-radius: 25px;
         }
 
+       .btn-default:hover {
+              background-color: #311d70;
+              color: #FFF;
+       }
+
        .hangingindent {
              padding-left: 22px ;
              text-indent: -22px ;
