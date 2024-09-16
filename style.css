@@ -15,21 +15,13 @@
             transform: translateY(2em);
         }
 
-       .a-black:link {
+       .a-black {
               color: #000;
        } 
        
        .a-black:hover  {
               color: #311d70;
-              text-decoration: none;
-       } 
-
-       .a-black:visited {
-              color: #000;
-       }
-       
-       .a-black:active {
-              color: #000;
+              text-decoration: none !important;
        }
 
         h1 {
