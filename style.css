@@ -68,7 +68,7 @@
               color: #FFF;
        }
 
-       button.centered {
+       .centered, #centered {
               text-align: center;
        }
 
