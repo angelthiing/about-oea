@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "About OEA",
+  "headline": "About OEA",
+  "url": "https://www.aboutoea.org/",
+  "datePublished": "2024-09-16T08:00:00",
+  "dateModified": "2025-01-03T09:20:00",
+  "description": "Organized and Extreme Abuse (OEA) describes the structured manipulation of attachment needs through extreme conditioning and sadistic torture.",
+  "image": "https://aboutoea.org/images/website-image.jpg",
+  "potentialAction": {
+	  "@type": "ReadAction",
+	  "target": "https://www.aboutoea.org/"
+   },
+   "author": {
+     "@type": "Organization",
+      "name": "Contributors to the About OEA project"
+    },
+	  "mainEntity": [
+     {
+	      "@type": "Thing",
+	      "name": "Organized and Extreme Abuse (OEA)"
+	    }
+	  ],
+    "about": ["Ritual Abuse", "Organized Abuse", "Human Trafficking", "Cults", "Transgenerational Organized Violence", "Non-State Torture", "Trauma", "Dissociation"]
+  }
