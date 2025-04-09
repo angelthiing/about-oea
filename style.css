@@ -10,11 +10,6 @@
             font-size: 1.8em;
         }
 
-        .container {
-            width: 67%;
-            transform: translateY(2em);
-        }
-
        .a-black {
               color: #000;
        } 
@@ -30,15 +25,6 @@
 
         #awareness-ribbon {
             font-size: 3em;
-        }
-
-        .col-nav {
-            padding-right: 5%;
-        }
-
-        .col-main {
-            border-left: 2px solid #311d70;
-            padding-left: 5%;
         }
 
         h1 {
@@ -76,3 +62,19 @@
              padding-left: 22px ;
              text-indent: -22px ;
        }
+
+@media screen and (min-width: 600px) {
+       .container {
+            width: 67%;
+            transform: translateY(2em);
+        }
+
+        .col-nav {
+            padding-right: 5%;
+        }
+
+        .col-main {
+            border-left: 2px solid #311d70;
+            padding-left: 5%;
+        }
+}
