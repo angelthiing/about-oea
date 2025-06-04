@@ -65,7 +65,7 @@
 
 @media (min-width: 768px) { 
        .container {
-            width: 67%;
+            width: 75%;
             transform: translateY(2em);
         }
 
