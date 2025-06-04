@@ -63,7 +63,7 @@
              text-indent: -22px ;
        }
 
-@media screen and (min-width: 600px) {
+@include media-breakpoint-up(sm) {
        .container {
             width: 67%;
             transform: translateY(2em);
