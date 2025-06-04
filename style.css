@@ -27,16 +27,17 @@
             font-size: 3em;
         }
 
-        h1 {
-            text-align: right;
+       h1 {
+            text-align: center;
+        }
+
+        .buttons {
+            text-align: center;
+            width: 100%;
         }
 
         h2 {
             font-size: 1.25em;
-        }
-
-        .buttons {
-            text-align: right;
         }
 
         .btn-default {
@@ -78,12 +79,11 @@
             padding-left: 5%;
         }
 
-       h1 {
-            text-align: center;
+        h1 {
+            text-align: right;
         }
 
         .buttons {
-            text-align: center;
-            width: 100%;
+            text-align: right;
         }
 }
